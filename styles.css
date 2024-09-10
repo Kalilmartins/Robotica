@@ -13,10 +13,10 @@ body {
         font-size: 32px;
     }
     
-    .chamada {
+   .chamada {
        padding-bottom: 80px;
        padding-top: 80px;
-        background: rgb(71, 22, 230);
+        background: rgb(99, 200, 240);
         display: flex;
         justify-content: center;
     }
